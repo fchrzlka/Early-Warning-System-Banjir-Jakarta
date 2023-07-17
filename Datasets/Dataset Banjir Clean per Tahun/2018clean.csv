@@ -1,0 +1,85 @@
+kota_administrasi,kecamatan,jumlah_terdampak_rw,jumlah_terdampak_rt,jumlah_terdampak_kk,jumlah_terdampak_jiwa,jumlah_meninggal,jumlah_hilang,jumlah_luka_berat,jumlah_luka_ringan,jumlah_pengungsi_tertinggi,jumlah_tempat_pengungsian,nilai_kerugian,bulan,ketinggian_air,tahun
+Jakarta Barat,PENJARINGAN,2,12,0,0,0,0,0,0,0,0,0,1,30,2018
+Jakarta Utara,CENGKARENG,15,34,0,0,0,0,0,0,0,0,0,1,40,2018
+Jakarta Utara,GROGOL PETAMBURAN,2,3,0,0,0,0,0,0,0,0,0,1,20,2018
+Jakarta Utara,KALIDERES,2,3,0,0,0,0,0,0,0,0,0,1,25,2018
+Jakarta Utara,KEMBANGAN,4,2,0,0,0,0,0,0,0,0,0,1,20,2018
+Jakarta Barat,CENGKARENG,30,115,0,0,0,0,0,0,0,0,0,2,80,2018
+Jakarta Barat,GROGOL PETAMBURAN,3,2,0,0,0,0,0,0,0,0,0,2,50,2018
+Jakarta Barat,KALIDERES,25,145,0,0,0,0,0,0,0,0,0,2,50,2018
+Jakarta Barat,KEBON JERUK,5,4,0,0,0,0,0,0,0,0,0,2,60,2018
+Jakarta Barat,KEMBANGAN,2,3,0,0,0,0,0,0,0,0,0,2,30,2018
+Jakarta Barat,PALMERAH,1,3,0,0,0,0,0,0,0,0,0,2,50,2018
+Jakarta Pusat,CEMPAKA PUTIH,3,7,0,0,0,0,0,0,0,0,0,2,35,2018
+Jakarta Pusat,KEMAYORAN,2,6,0,0,0,0,0,0,0,0,0,2,50,2018
+Jakarta Selatan,CILANDAK,1,1,98,480,0,0,0,0,0,0,0,2,50,2018
+Jakarta Selatan,JAGAKARSA,12,12,113,265,0,0,0,0,0,0,0,2,300,2018
+Jakarta Selatan,MAMPANG PRAPATAN,1,1,0,0,0,0,0,0,0,0,0,2,40,2018
+Jakarta Selatan,PANCORAN,5,14,1064,4502,0,1,0,5208,15,0,0,2,300,2018
+Jakarta Selatan,PASAR MINGGU,4,10,324,962,0,0,0,1811,6,0,0,2,200,2018
+Jakarta Selatan,TEBET,5,18,540,2347,0,0,0,3397,4,0,0,2,200,2018
+Jakarta Timur,CAKUNG,14,27,18,56,0,0,0,46,1,0,0,2,120,2018
+Jakarta Timur,JATINEGARA,18,90,1859,5716,0,0,0,1945,18,0,0,2,250,2018
+Jakarta Timur,KRAMAT JATI,14,46,1335,4444,0,0,0,2467,11,0,0,2,300,2018
+Jakarta Timur,MAKASAR,4,15,0,0,0,0,0,0,0,0,0,2,90,2018
+Jakarta Timur,MATRAMAN,2,8,41,414,0,0,0,414,2,0,0,2,80,2018
+Jakarta Timur,PASAR REBO,1,1,0,0,0,0,0,0,0,0,0,2,150,2018
+Jakarta Utara,CILINCING,2,8,7,30,0,0,0,30,1,0,0,2,50,2018
+Jakarta Utara,KELAPA GADING,1,1,30,100,0,0,0,100,1,0,0,2,70,2018
+Jakarta Utara,KOJA,1,2,38,140,0,0,0,140,1,0,0,2,40,2018
+Jakarta Utara,PENJARINGAN,6,9,0,0,0,0,0,0,0,0,0,2,35,2018
+Jakarta Selatan,PANCORAN,1,4,0,0,0,0,0,0,0,0,0,3,80,2018
+Jakarta Selatan,PASAR MINGGU,3,3,0,0,0,0,0,0,0,0,0,3,50,2018
+Jakarta Selatan,TEBET,1,1,0,0,0,0,0,0,0,0,0,3,30,2018
+Jakarta Timur,JATINEGARA,7,29,303,1000,0,0,0,0,0,0,0,3,100,2018
+Jakarta Timur,KRAMAT JATI,7,0,0,0,0,0,0,0,0,0,0,3,100,2018
+Jakarta Timur,MAKASAR,2,9,0,0,0,0,0,0,0,0,0,3,10,2018
+Jakarta Selatan,PESANGGRAHAN,1,1,0,0,0,0,0,0,0,0,0,4,30,2018
+Jakarta Timur,CAKUNG,2,2,0,0,0,0,0,0,0,0,0,4,90,2018
+Jakarta Timur,JATINEGARA ,8,33,300,988,0,0,0,0,0,0,0,4,60,2018
+Jakarta Timur,KRAMAT JATI,5,21,0,0,0,0,0,0,0,0,0,4,60,2018
+Jakarta Timur,MAKASAR,2,3,0,0,0,0,0,0,0,0,0,4,10,2018
+Jakarta Timur,PULOGADUNG,1,1,0,0,0,0,0,0,0,0,0,4,50,2018
+Jakarta Barat, KALIDERES,1,2,0,0,0,0,0,0,0,0,0,5,20,2018
+Jakarta Selatan, CILANDAK,6,6,0,0,0,0,0,0,0,0,0,5,80,2018
+Jakarta Selatan, KEBAYORAN BARU,1,4,0,0,0,0,0,0,0,0,0,5,40,2018
+Jakarta Selatan, MAMPANG PRAPATAN,4,7,20,60,0,0,0,60,1,0,0,5,150,2018
+Jakarta Selatan, PANCORAN,5,8,0,0,0,0,0,0,0,0,0,5,60,2018
+Jakarta Selatan, PASAR MINGGU,16,21,7,20,0,0,0,9,1,0,0,5,120,2018
+Jakarta Selatan, TEBET,1,1,0,0,0,0,0,0,0,0,0,5,20,2018
+Jakarta Timur, JATINEGARA,6,30,187,636,0,0,0,0,0,0,0,5,110,2018
+Jakarta Timur, KRAMAT JATI,7,22,0,0,0,0,0,0,0,0,0,5,70,2018
+Jakarta Selatan, KEBAYORAN LAMA,2,2,0,0,0,0,0,0,0,0,0,6,60,2018
+Jakarta Selatan, PANCORAN,1,1,0,0,0,0,0,0,0,0,0,6,15,2018
+Jakarta Selatan, PASAR MINGGU,4,7,0,0,0,0,0,0,0,0,0,6,30,2018
+Jakarta Timur, JATINEGARA,7,35,327,1065,0,0,0,0,0,0,0,6,100,2018
+Jakarta Timur, KRAMAT JATI,4,4,1,3,0,0,0,0,0,0,0,6,30,2018
+Jakarta Barat, CENGKARENG,2,3,0,0,0,0,0,0,0,0,0,10,30,2018
+Jakarta Pusat, SAWAH BESAR,1,3,0,0,0,0,0,0,0,0,0,10,40,2018
+Jakarta Timur, JATINEGARA,6,25,387,1001,0,0,0,0,0,0,0,10,80,2018
+Jakarta Timur, KRAMAT JATI,4,8,0,0,0,0,0,0,0,0,0,10,50,2018
+Jakarta Barat, KALIDERES,1,2,0,0,0,0,0,0,0,0,0,11,30,2018
+Jakarta Selatan, CILANDAK,2,4,0,0,0,0,0,0,0,0,0,11,70,2018
+Jakarta Selatan, KEBAYORAN LAMA,1,4,0,0,0,0,0,0,0,0,0,11,20,2018
+Jakarta Selatan, PASAR MINGGU,5,5,0,0,0,0,0,0,0,0,0,11,30,2018
+Jakarta Selatan, PESANGGRAHAN,1,1,825,4000,0,0,0,0,0,0,0,11,70,2018
+Jakarta Timur, CAKUNG,2,2,0,0,0,0,0,0,0,0,0,11,20,2018
+Jakarta Timur, CIRACAS,1,1,0,0,0,0,0,0,0,0,0,11,30,2018
+Jakarta Timur, JATINEGARA,7,33,463,1739,0,0,0,0,0,0,0,11,100,2018
+Jakarta Timur, KRAMAT JATI,4,2,0,0,0,0,0,0,0,0,0,11,50,2018
+Jakarta Timur, MAKASAR,2,10,560,1858,0,0,0,0,0,0,0,11,50,2018
+Jakarta Utara, PENJARINGAN,2,6,0,0,0,0,0,0,0,0,0,11,15,2018
+Jakarta Barat, CENGKARENG,11,19,34,77,0,0,0,0,0,0,0,12,60,2018
+Jakarta Barat, KALIDERES,1,3,0,0,0,0,0,0,0,0,0,12,10,2018
+Jakarta Barat, KEMBANGAN,1,1,0,0,0,0,0,0,0,0,0,12,50,2018
+Jakarta Selatan, CILANDAK,3,6,0,0,0,0,0,0,0,0,0,12,60,2018
+Jakarta Selatan, KEBAYORAN BARU,5,28,0,0,0,0,0,0,0,0,0,12,40,2018
+Jakarta Selatan, KEBAYORAN LAMA,1,2,0,0,0,0,0,0,0,0,0,12,80,2018
+Jakarta Selatan, MAMPANG PRAPATAN,3,5,0,0,0,0,0,0,0,0,0,12,80,2018
+Jakarta Selatan, PANCORAN,2,6,0,0,0,0,0,0,0,0,0,12,70,2018
+Jakarta Selatan, PASAR MINGGU,2,3,0,0,0,0,0,0,0,0,0,12,100,2018
+Jakarta Selatan, PESANGGRAHAN,1,8,0,0,0,0,0,0,0,0,0,12,40,2018
+Jakarta Timur, CAKUNG,2,5,210,800,0,0,0,0,0,0,0,12,100,2018
+Jakarta Timur, CIRACAS,2,4,0,0,0,0,0,0,0,0,0,12,50,2018
+Jakarta Timur, MAKASAR,1,1,0,0,0,0,0,0,0,0,0,12,30,2018
+Jakarta Utara, PENJARINGAN,3,4,0,0,0,0,0,0,0,0,0,12,10,2018
